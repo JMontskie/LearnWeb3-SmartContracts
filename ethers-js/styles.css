@@ -1,0 +1,16 @@
+body div {
+  display: flex;
+  justify-content: center;
+}
+body div .button {
+  border: 2px solid #000;
+  border-radius: 25px;
+  padding: 10px 50px;
+  margin: top 30px;
+  cursor: pointer;
+}
+body div .button:hover {
+  background-color: #037dd6;
+  border: 2px solid #037dd6;
+  color: #fff;
+}/*# sourceMappingURL=styles.css.map */
